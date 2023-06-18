@@ -4,7 +4,7 @@ Hangman Game is a classic word-guessing game where players attempt to guess a hi
 
 ![Hangman Game](hangman-screenshot.png?raw=true "Hangman Game ")
 
-### <a href="https://hangman-game-gm.netlify.app/>LIVE DEMO</a>
+### <a href="https://hangman-game-gm.netlify.app/">LIVE DEMO</a>
 
 ## 1. Clone the repository
 
